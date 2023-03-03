@@ -1,5 +1,6 @@
 # Object_Oriented_Programming
-Java Projects 
+
+Western/Eastern Compatibility Program
 
 This is a program using object oriented programming using Java to discover the compatibility of a person.
 
